@@ -1,0 +1,40 @@
+@font-face {
+   font-family: 'SingleMaltaRegular';
+   src: url('../font/singlemalta-webfont.eot');
+   src: url('../font/singlemalta-webfont.eot?#iefix') format('embedded-opentype'),
+        url('../font/singlemalta-webfont.woff') format('woff'),
+    url('../font/singlemalta-webfont.ttf') format('truetype'),
+    url('../font/singlemalta-webfont.svg#SingleMaltaRegular') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: normal;
+   font-weight: 400;
+   src: local('PT Sans'), local('PTSans-Regular'), url('../font/PT_Sans-Web-Regular.eot');
+   src: url('../font/PT_Sans-Web-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/PT_Sans-Web-Regular.woff') format('woff'),
+    url('../font/PT_Sans-Web-Regular.ttf') format('truetype'),
+    url('../font/PT_Sans-Web-Regular.svg#PT Sans') format('svg');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: normal;
+   font-weight: 700;
+   src: local('PT Sans Bold'), local('PTSans-Bold'), url('../font/PT_Sans-Web-Bold.eot');
+   src: url('../font/PT_Sans-Web-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/PT_Sans-Web-Bold.woff') format('woff'),
+    url('../font/PT_Sans-Web-Bold.ttf') format('truetype'),
+    url('../font/PT_Sans-Web-Bold.svg#PT Sans') format('svg');
+}
+@font-face {
+   font-family: 'PT Sans';
+   font-style: italic;
+   font-weight: 400;
+   src: local('PT Sans Italic'), local('PTSans-Italic'), url('../font/PT_Sans-Web-Italic.eot');
+   src: url('../font/PT_Sans-Web-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../font/PT_Sans-Web-Italic.woff') format('woff'),
+    url('../font/PT_Sans-Web-Italic.ttf') format('truetype'),
+    url('../font/PT_Sans-Web-Italic.svg#PT Sans') format('svg');
+}

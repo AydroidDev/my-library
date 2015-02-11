@@ -1,0 +1,58 @@
+v1.0
+书名不要验证	 Done
+删除要确认  Done
+实体书删除  Done
+ebook管理，删除 Done
+用户修改密码 Done
+每个页面加个hero Done
+应还日期 Done
+中文标题 Done
+催还书通知，首页 Done
+文章区 Done
+个人资料 Done
+修改密码连接,用户上传的电子书 Done
+Ueditor调试，图片存储数据库 Done
+控件崩溃 Done
+全局设置 Done
+首页 Done
+首页提醒还书 Done
+更新bootstrap Fail
+首页图片 Done
+自助借书 Done
+调整表格宽度 Done
+限制借2本，自助还书 Done
+部署后乱码问题 Done
+
+v1.1
+电子书下载次数(redirect url乱码) Done
+按下载量排序 Done
+js cache 导致报错 Done
+电子书评论 (js_cache:Done scroll:done delete:Done loading count:Done) Done
+图书评论 Done
+历史查询搜索 Done
+分页tag的bug Done
+首页 新书链接 Done
+点击书名按评论数量排序 Done
+借阅人  点击查询。(需要点击查看更多)Done
+
+v1.3
+部门的注册和修改 Done
+把我二维码放上去 Done
+随机评论图片 Done
+cookie Done
+随机文摘 Done
+
+图书分类
+查看个人信息 Done
+首页文章按更新时间排序 Done
+电子书加上chm Done
+个人捐书
+
+大版本：变更为多库存，需增加book_storage表，修改借书，还书，新书上架等的业务逻辑
+用户统计（人数，操作）
+下载人查询
+预约?
+最后要把cache调为true
+
+
+ps：其实现在很多不加外键依赖了，感觉加了之后反而出现很多业务不方便的问题，可以直接在程序里控制依赖即可。
